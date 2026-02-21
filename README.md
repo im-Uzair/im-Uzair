@@ -27,7 +27,6 @@
 - 👯 I’m looking to collaborate on innovative web application projects, especially those with a positive social impact or challenging technical problems.
 - 🤔 I’m looking for help with understanding advanced system design patterns and best practices for building highly scalable applications.
 - 💬 Ask me about MERN stack development (MongoDB, Express.js, React, Node.js), Python, Data Structures & Algorithms, or my journey at IIT Madras!
-- 📫 How to reach me: [your.email@example.com] <!-- Placeholder for email -->
 - 😄 Pronouns: He/Him <!-- Example, can be changed or removed -->
 - ⚡ Fun fact: I can solve a Rubik's Cube in under a minute and I'm always up for a game of chess!
 
