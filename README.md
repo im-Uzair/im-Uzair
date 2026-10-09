@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![GitHub](https://img.shields.io/badge/GitHub-im--Uzair-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/im-Uzair)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@uzair.dev)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uzairinboxx@gmail.com)
 
 <br/>
 
@@ -69,4 +69,4 @@ If you're hiring for **AI Engineering**, **Python Backend**, or **Software Engin
 
 - **LinkedIn**: [Connect with me](https://linkedin.com/in/)
 - **GitHub**: [@im-Uzair](https://github.com/im-Uzair)
-- **Email**: [Reach out directly](mailto:contact@uzair.dev)
+- **Email**: [Reach out directly](mailto:uzairinboxx@gmail.com)
